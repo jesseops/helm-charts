@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  httpbin:
+  - apiVersion: v2
+    appVersion: 0.9.2
+    created: "2021-07-15T22:17:45.157415487Z"
+    description: Deploy httpbin to your K8s cluster (great for demos)
+    digest: a17b1c52832ababec1d120bcb4fca78b89d12ac21ebc7c613f370ff1727dfbc6
+    name: httpbin
+    type: application
+    urls:
+    - https://github.com/jesseops/helm-charts/releases/download/httpbin-0.1.1/httpbin-0.1.1.tgz
+    version: 0.1.1
+generated: "2021-07-15T22:17:45.157420887Z"
